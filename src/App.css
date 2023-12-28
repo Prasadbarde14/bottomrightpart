@@ -1,17 +1,10 @@
-.App{
-  width: 200vw;
-  height: 200vh;
-  overflow: hidden;
-}
+
 
 
 .parent {
     position: relative;
-    width: 200vw;
-    height: 200vh;
-    overflow: hidden;
-    bottom: 0;
-    right: 0;
+    width: 100vw;
+    height: 100vh;
   }
   
   .video-container {
